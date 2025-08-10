@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'TheYearofHandicraftsTTF-Blackl' ;
+src: local ('TheYearofHandicraftsTTF-Black'), url ( TheYearofHandicraftsTTF-Black.tff ) format ('turetype');
+unicode-range: u+0600-06ff, u+200c-200e, u+2010-2011, u+f850-fdff, u+fe80-fefc
+
+}
